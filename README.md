@@ -21,7 +21,8 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * Bootstrap
 * GitHub, Webpack, Git
 * Google Maps Integration**
-* Payment Integration (Stripe, Paypal, 2 Checkout, Braintree)**
+* Payment Integration (Stripe, EasyPaisa, JazzCash)
+* COurier Integration ( Deawoo , TCS, LCS, Swift)
 
 🚀 Notable Achievements:
 
