@@ -1,4 +1,5 @@
 Greetings! 👋
+
 I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building innovative web applications tailored to diverse business needs.
 
  Technologies & Tools:
