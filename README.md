@@ -36,9 +36,14 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * Partown (https://dev.partown.co)
 * BizB (https://bizb.store)
 * Deikho (https://deikho.com)
-* Genesis (https://genesis.paklogics.com)
 * Intempco (http://3.16.122.189)
 * Ranchers Café (https://rancherscafe.com)
+* List Manager For Zoho CRM (https://marketplace.zoho.com/app/crm/list-manager-for-zoho-crm)
+* Linked Pro for Zoho CRM (https://marketplace.zoho.com/app/crm/linked-pro-for-zoho-crm)
+* Zomani For Zoho CRM (https://marketplace.zoho.com/app/crm/zomani-for-zoho-crm)
+* List Manager Pro for Zoho CRM (https://marketplace.zoho.com/app/crm/list-manager-pro-for-zoho-crm)
+* Lead Finder for Zoho CRM (https://marketplace.zoho.com/app/crm/lead-finder-for-zoho-crm)
+* Map View for Zoho CRM (https://marketplace.zoho.com/app/crm/map-view-for-zoho-crm#overview)
 
 🌱 Continuous Learning
 
@@ -49,7 +54,6 @@ I thrive in unfamiliar situations and enjoy opportunities to learn and gain expo
 Feel free to reach out for collaborations, discussions, or exciting project opportunities:
 
 * LinkedIn: https://www.linkedin.com/in/shoaibfarooq3/
-* 
 * Email: shoaibfarooq3@gmail.com
 
 Looking forward to exploring new ventures and contributing to innovative projects!
