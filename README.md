@@ -54,6 +54,7 @@ I thrive in unfamiliar situations and enjoy opportunities to learn and gain expo
 Feel free to reach out for collaborations, discussions, or exciting project opportunities:
 
 * LinkedIn: https://www.linkedin.com/in/shoaibfarooq3/
+* Upwork: https://www.upwork.com/freelancers/~0154a9cf876401ed5b
 * Email: shoaibfarooq3@gmail.com
 
 Looking forward to exploring new ventures and contributing to innovative projects!
