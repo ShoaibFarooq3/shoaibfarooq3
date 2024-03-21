@@ -3,24 +3,25 @@ Greetings! 👋
 I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building innovative web applications tailored to diverse business needs.
 
  Technologies & Tools:
-**“*” JavaScript (ES6)
-“*” React.js
-“*” Node.js
-“*” Next.js
-“*” Elastic Search
-“*” GraphQL
-“*” Twilio
-“*” Google Analytics
-“*” AWS (Amazon Web Services)
-“*” Google Cloud
-“*” Firebase
-“*” HTML5, CSS3
-“*” Material-UI (MUI)
-“*” Tailwind CSS
-“*” Bootstrap
-“*” GitHub, Webpack, Git
-“*” Google Maps Integration**
-**“*” Payment Integration (Stripe, Paypal, 2 Checkout, Braintree)**
+ 
+* JavaScript (ES6)
+* React.js
+* Node.js
+* Next.js
+* Elastic Search
+* GraphQL
+* Twilio
+* Google Analytics
+* AWS (Amazon Web Services)
+* Google Cloud
+* Firebase
+* HTML5, CSS3
+* Material-UI (MUI)
+* Tailwind CSS
+* Bootstrap
+* GitHub, Webpack, Git
+* Google Maps Integration**
+* Payment Integration (Stripe, Paypal, 2 Checkout, Braintree)**
 
 🚀 Notable Achievements:
 “*” Successfully delivered real-time projects across diverse business domains, demonstrating adaptability and a knack for shifting priorities to meet project demands.
