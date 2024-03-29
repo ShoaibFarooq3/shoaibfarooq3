@@ -8,6 +8,7 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * React.js
 * Node.js
 * Next.js
+* Vue Js
 * Elastic Search
 * GraphQL
 * Twilio
