@@ -22,6 +22,7 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * Bootstrap
 * GitHub, Webpack, Git
 * Google Maps Integration**
+* Third Party APis Integrations (Redo, Shopify, Intercom, Klaviyo )
 * Payment Integration (Stripe, EasyPaisa, JazzCash)
 * Courier Integration ( Deawoo , TCS, LCS, Swift)
 
