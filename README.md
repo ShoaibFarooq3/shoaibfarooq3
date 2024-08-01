@@ -7,6 +7,7 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * JavaScript (ES6)
 * React.js
 * Node.js
+* Nest.js
 * Next.js
 * Vue Js
 * Elastic Search
