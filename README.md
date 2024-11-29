@@ -9,7 +9,6 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * Node.js
 * Nest.js
 * Next.js
-* Vue Js
 * Elastic Search
 * GraphQL
 * Twilio
@@ -20,6 +19,7 @@ I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building i
 * HTML5, CSS3
 * Material-UI (MUI)
 * Tailwind CSS
+* Claude API
 * Bootstrap
 * GitHub, Webpack, Git
 * Google Maps Integration**
