@@ -39,7 +39,15 @@ I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Fo
 * [Deikho](https://deikho.com)
 * [Intempco](http://3.16.122.189)
 * [Ranchers Café](https://rancherscafe.com)
-* **Zoho CRM Apps:** List Manager, Linked Pro, Zomani, Map View, Lead Finder
+
+**Zoho CRM Apps (Marketplace):**
+
+* [List Manager for Zoho CRM](https://marketplace.zoho.com/app/crm/list-manager-for-zoho-crm)
+* [Linked Pro for Zoho CRM](https://marketplace.zoho.com/app/crm/linked-pro-for-zoho-crm)
+* [Zomani for Zoho CRM](https://marketplace.zoho.com/app/crm/zomani-for-zoho-crm)
+* [List Manager Pro for Zoho CRM](https://marketplace.zoho.com/app/crm/list-manager-pro-for-zoho-crm)
+* [Lead Finder for Zoho CRM](https://marketplace.zoho.com/app/crm/lead-finder-for-zoho-crm)
+* [Map View for Zoho CRM](https://marketplace.zoho.com/app/crm/map-view-for-zoho-crm#overview)
 
 ---
 
@@ -52,7 +60,6 @@ I thrive in unfamiliar situations, adapt quickly, and enjoy exploring new techno
 ## 📫 Let’s Connect
 
 * 🔗 LinkedIn: [linkedin.com/in/shoaibfarooq3](https://www.linkedin.com/in/shoaibfarooq3/)
-* 💼 Upwork: [upwork.com/freelancers/\~0154a9cf876401ed5b](https://www.upwork.com/freelancers/~0154a9cf876401ed5b)
 * 📧 Email: **[shoaibfarooq3@gmail.com](mailto:shoaibfarooq3@gmail.com)**
 
 ---
