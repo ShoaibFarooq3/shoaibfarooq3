@@ -1,64 +1,58 @@
+# 🌍 Shoaib Farooq – Deputy Director (Web & AI) | Full Stack Developer
+
 Greetings! 👋
 
-I'm Shoaib Farooq, a seasoned Full Stack Developer with a passion for building innovative web applications tailored to diverse business needs.
+I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Forestry, Wildlife & Fisheries Department (Punjab GIS Lab)**, where I lead the design and development of enterprise-scale web platforms, dashboards, and AI-powered solutions. With 4+ years of experience as a **Full Stack Developer**, I specialize in building innovative, high-performance applications tailored to diverse business and institutional needs.
 
- Technologies & Tools:
- 
-* JavaScript (ES6)
-* React.js
-* Node.js
-* Nest.js
-* Next.js
-* Elastic Search
-* GraphQL
-* Twilio
-* Google Analytics
-* AWS (Amazon Web Services)
-* Google Cloud
-* Firebase
-* HTML5, CSS3
-* Material-UI (MUI)
-* Tailwind CSS
-* Claude API
-* Bootstrap
-* GitHub, Webpack, Git
-* Google Maps Integration**
-* Third Party APis Integrations (Redo, Shopify, Intercom, Klaviyo )
-* Payment Integration (Stripe, EasyPaisa, JazzCash)
-* Courier Integration ( Deawoo , TCS, LCS, Swift)
+---
 
-🚀 Notable Achievements:
+## 💻 Technologies & Tools
 
-* Successfully delivered real-time projects across diverse business domains, demonstrating adaptability and a knack for shifting priorities to meet project demands.
-* Specialized in Payment Gateway Integration, ensuring seamless financial transactions in applications.
-* Expertise in deploying applications on AWS and configuring NGINX for optimized performance.
+* **Frontend:** React.js, Next.js, Vue.js, JavaScript (ES6), HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI (MUI)
+* **Backend:** Node.js, Nest.js, Express.js, GraphQL, ElasticSearch
+* **Databases:** MongoDB, MySQL, PostgreSQL/PostGIS
+* **Cloud & Infra:** AWS, Google Cloud, Firebase, NGINX
+* **APIs & Integrations:** Twilio, Google Analytics, Shopify, Intercom, Klaviyo, Redo
+* **Payment & Logistics:** Stripe, EasyPaisa, JazzCash, Courier APIs (Daewoo, TCS, LCS, Swift)
+* **Other Tools:** GitHub, Webpack, Claude API, Google Maps, LeafLet, Zoho CRM Apps
 
+---
 
-🌐 Highlighted Projects
+## 🚀 Key Projects (Forestry GIS Lab)
 
-* Land Of Sneakers (https://store.landofsneakers.com)
-* Partown (https://dev.partown.co)
-* BizB (https://bizb.store)
-* Deikho (https://deikho.com)
-* Intempco (http://3.16.122.189)
-* Ranchers Café (https://rancherscafe.com)
-* List Manager For Zoho CRM (https://marketplace.zoho.com/app/crm/list-manager-for-zoho-crm)
-* Linked Pro for Zoho CRM (https://marketplace.zoho.com/app/crm/linked-pro-for-zoho-crm)
-* Zomani For Zoho CRM (https://marketplace.zoho.com/app/crm/zomani-for-zoho-crm)
-* List Manager Pro for Zoho CRM (https://marketplace.zoho.com/app/crm/list-manager-pro-for-zoho-crm)
-* Lead Finder for Zoho CRM (https://marketplace.zoho.com/app/crm/lead-finder-for-zoho-crm)
-* Map View for Zoho CRM (https://marketplace.zoho.com/app/crm/map-view-for-zoho-crm#overview)
+* 🌐 **GIS LAB Website:** [gisforestry.com](https://gisforestry.com/)
+* 📊 **Complaint Management System (CMS):** [cms.gisforestry.com](https://cms.gisforestry.com/)
+* 🌱 **Afforestation & Plantation Tracking:** [fca.gisforestry.com](https://fca.gisforestry.com/)
+* 🔥 **Forest Fire Reporting & Monitoring:** [frm.gisforestry.com/fireform](https://frm.gisforestry.com/fireform/index.php)
+* 🌿 **Nursery Management System:** [nursery.gisforestry.com](https://nursery.gisforestry.com/)
+* 🏢 **Assets Management System (AMS):** [ams.gisforestry.com](https://ams.gisforestry.com/login)
+* 📍 **Compartment-Level Survey (CPT):** [cpt-survey.gisforestry.com](https://cpt-survey.gisforestry.com/)
+* 🏞 **Forest Encroachment Management System (FEMS):** [fems.gisforestry.com](https://fems.gisforestry.com/)
 
-🌱 Continuous Learning
+---
 
-I thrive in unfamiliar situations and enjoy opportunities to learn and gain exposure to new ideas and experiences. I'm open and willing to learn whatever is necessary to accomplish my client's goals.
+## 🌐 Highlighted Private Projects
 
-📫 Let's Connect
+* [Land Of Sneakers](https://store.landofsneakers.com)
+* [Partown](https://dev.partown.co)
+* [BizB](https://bizb.store)
+* [Deikho](https://deikho.com)
+* [Intempco](http://3.16.122.189)
+* [Ranchers Café](https://rancherscafe.com)
+* **Zoho CRM Apps:** List Manager, Linked Pro, Zomani, Map View, Lead Finder
 
-Feel free to reach out for collaborations, discussions, or exciting project opportunities:
+---
 
-* LinkedIn: https://www.linkedin.com/in/shoaibfarooq3/
-* Upwork: https://www.upwork.com/freelancers/~0154a9cf876401ed5b
-* Email: shoaibfarooq3@gmail.com
+## 🌱 Continuous Learning
 
-Looking forward to exploring new ventures and contributing to innovative projects!
+I thrive in unfamiliar situations, adapt quickly, and enjoy exploring new technologies. Always open to collaboration and innovation, I aim to deliver solutions that create meaningful impact.
+
+---
+
+## 📫 Let’s Connect
+
+* 🔗 LinkedIn: [linkedin.com/in/shoaibfarooq3](https://www.linkedin.com/in/shoaibfarooq3/)
+* 💼 Upwork: [upwork.com/freelancers/\~0154a9cf876401ed5b](https://www.upwork.com/freelancers/~0154a9cf876401ed5b)
+* 📧 Email: **[shoaibfarooq3@gmail.com](mailto:shoaibfarooq3@gmail.com)**
+
+---
