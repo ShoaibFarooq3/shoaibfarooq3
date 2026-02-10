@@ -2,7 +2,7 @@
 
 Greetings! 👋
 
-I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Forestry, Wildlife & Fisheries Department (Punjab GIS Lab)**, where I lead the design and development of enterprise-scale web platforms, dashboards, and AI-powered solutions. With 4+ years of experience as a **Full Stack Developer**, I specialize in building innovative, high-performance applications tailored to diverse business and institutional needs.
+I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Forestry & Wildlife Department (Punjab GIS Lab)**, where I lead the design and development of enterprise-scale web platforms, dashboards, and AI-powered solutions. With 4+ years of experience as a **Full Stack Developer**, I specialize in building innovative, high-performance applications tailored to diverse business and institutional needs.
 
 ---
 
