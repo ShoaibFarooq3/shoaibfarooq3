@@ -28,8 +28,8 @@ I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Fo
 * 🏢 **Assets Management System (AMS):** [ams.gisforestry.com](https://ams.gisforestry.com/login)
 * 📍 **Compartment-Level Survey (CPT):** [cpt-survey.gisforestry.com](https://cpt-survey.gisforestry.com/)
 * 🏞 **Forest Encroachment Management System (FEMS):** [fems.gisforestry.com](https://fems.gisforestry.com/)
-* 🌳 **Punjab Tree Enumeration:** [punjabtreeenumeration.com] https://punjabtreeenumeration.com/
-* 📊 **Forest PM&E Dashboard:** [pme.punjabeforest.com] https://pme.punjabeforest.com/
+* 🌳 **Punjab Tree Enumeration:** [punjabtreeenumeration.com](https://punjabtreeenumeration.com/)
+* 📊 **Forest PM&E Dashboard:** [pme.punjabeforest.com](https://pme.punjabeforest.com/)
 
 ---
 
