@@ -11,7 +11,7 @@ I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Fo
 * **Frontend:** React.js, Next.js, Vue.js, JavaScript (ES6), HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI (MUI)
 * **Backend:** Node.js, Nest.js, Express.js, GraphQL, ElasticSearch
 * **Databases:** MongoDB, MySQL, PostgreSQL/PostGIS
-* **Cloud & Infra:** AWS, Google Cloud, Firebase, NGINX
+* **Cloud & Infra:** AWS, Google Cloud, Firebase, NGINX, Cloudflare
 * **APIs & Integrations:** Twilio, Google Analytics, Shopify, Intercom, Klaviyo, Redo
 * **Payment & Logistics:** Stripe, EasyPaisa, JazzCash, Courier APIs (Daewoo, TCS, LCS, Swift)
 * **Other Tools:** GitHub, Webpack, Claude API, Google Maps, LeafLet, Zoho CRM Apps
@@ -28,6 +28,8 @@ I’m Shoaib Farooq, currently serving as **Deputy Director (Web & AI) at the Fo
 * 🏢 **Assets Management System (AMS):** [ams.gisforestry.com](https://ams.gisforestry.com/login)
 * 📍 **Compartment-Level Survey (CPT):** [cpt-survey.gisforestry.com](https://cpt-survey.gisforestry.com/)
 * 🏞 **Forest Encroachment Management System (FEMS):** [fems.gisforestry.com](https://fems.gisforestry.com/)
+* 🌳 **Punjab Tree Enumeration:** [punjabtreeenumeration.comhttps://punjabtreeenumeration.com/
+📊 **Forest PM&E Dashboard:** [pme.punjabeforest.com]https://pme.punjabeforest.com/
 
 ---
 
